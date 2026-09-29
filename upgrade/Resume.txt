@@ -1,0 +1,117 @@
+SANDEEP LODHI
+MERN Stack Developer
+
+officialsandeeplodhi@gmail.com
++916266921342
+Delhi NCR
+
+Summary
+======
+Experienced Node.js developer and MongoDB designer. Skilled in HTML/CSS for frontend design. Proficient in RESTful APIs, Git/GitHub, debugging, and deployment.
+
+
+Experience
+======
+MERN Stack Developer
+AB MSAI RESEARCH LABS PRIVATE LIMITED
+03/2024 - 05/2024
+Pashchim Vihar, New Delhi
+Artificial Intelligence Solutions Provider
+- Developed a MERN-based website for Thepnac.com,mirroring the functionality of the Creote theme.
+- Implemented responsive design for OD project,enauring optimal user experience across all devices.
+
+MERN Stack Developer
+HOUSE OF VSB
+09/2023 - 02/2024
+Saket,New Delhi
+Exemplifying excellence in luxury craftsmanship and timeless sophistication.
+- Designed and developed a user panel with robust APIs for a project similar to astrotalk.com.
+- Managed and enhanced the Shopify store for skins.in.
+
+Software Developer
+Shaligram Infotech
+02/2023 - 09/2024
+Ahamdabad,Gujrat
+Information Technology and Services
+ - They designed and developed responsive web applications using MERN
+ - Collaborated with the team to design and implement RESTful APIs using Node.js and Express.js
+ - It is developed and maintains databases using MS SQL Server
+
+
+Skills
+======
+Programming Languages
+ - JavaScript
+ - Node.js
+ - Express.js
+ - Restful APIs
+
+Web Technologies
+ - HTML5
+ - CSS3
+ - Bootstrap5
+ - Jquery
+ - JSON
+ - AJAX
+ - ES6
+ - DOM
+
+Database & Competencies
+ - MS SQL
+ - MySQL
+ - MOngoDB
+ - OOPS
+ - DSA
+ - GitHub
+ - VS Code
+
+
+Education
+======
+B.Tech CSE
+8.7
+Technocrats Institute of Technology
+08/2019 - 05/2023
+Bhopal MP
+
+Senior Secondary Education
+7.6
+Govt. Inter College Lalitpur
+03/2018 - 03/2019
+Lalitpur UP
+
+Higher Secondary Education
+7.6
+SDRS Inter College Lalitpur
+05/2016 - 03/2017
+Lalitpur UP
+
+
+Projects
+======
+Real Estate
+real-estate-d1ad.onrender.com/
+Developed platform using: Node.js , Express.js , MongoDB , Firebase , React.js , Redux , and RestApi.
+ - Provides tools to keep track of the dynamic real estate market
+ - Designed to support property owners in renting and selling
+ - Aids buyers in finding and purchasing properties
+ - Guides clients through the process of searching for listings
+
+E-commerce Platform (MERN Stack)
+MERN e-commerce: Secure auth, product mgmt, cart, orders, payments, responsive design, search, reviews, admin dashboard.
+ - Designed and implemented a fully functional e-commerce website from scratch.
+ - Integrated secure user authentication, real-time product updates, and payment processing.
+ - Engaged in teamwork with developers, implementing Agile methodologies to ensure timely project delivery.
+
+
+Achievements
+======
+Key Skills
+Coding | Web Application Development |Computer and Technical Skills | Social Presence | Self Learning |
+
+Hobbies
+Guiding the students and playing the cricket are my hobbies.-Coding
+
+Language 
+Hindi, English
+

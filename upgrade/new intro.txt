@@ -1,0 +1,83 @@
+Hi, I’m Sandeep Lodhi, a Backend / Node.js Developer with strong experience in building scalable, high-performance applications and distributed systems. I have over two years of hands-on experience working on full-stack and backend-driven projects across logistics, real estate, e-commerce, and edtech for clients in Israel, the US, Spain, and Australia.
+
+My core expertise includes Node.js, Express, MongoDB, and RESTful API development. I also work extensively with microservices architecture, Docker, Kubernetes, and message-brokers like RabbitMQ for building reliable, event-driven systems. I’m comfortable with CI/CD automation, serverless solutions such as AWS Lambda, and frontend tools like React, Redux Toolkit, and Tailwind CSS when needed.
+
+I’m passionate about clean architecture, maintainable code, and solving real-world problems through robust backend engineering. I’m now looking for a backend-focused role where I can contribute to scalable systems, optimize performance, and continue growing as a Node.js and microservices engineer
+
+
+
+------------------------------------
+
+✅ Final Interview Introduction (Covers Your Entire Experience)
+
+Hi, I’m Sandeep Lodhi. I’m a Backend and MERN Stack Developer with strong experience in building scalable, high-performance applications, cloud-based architectures, and distributed systems.
+
+I started my career at Shaligram Infotech, where I built a solid foundation in HTML, CSS, JavaScript, jQuery, Bootstrap, and MS SQL Server.
+
+After that, I joined MSAI Research as a MERN Stack Developer. There, I worked on a large Astrology platform from scratch—handling more than 70% of the R&D. I defined the full tech stack, integrated Prokela APIs for kundli and horoscope, built chat, audio/video communication features, and developed the initial backend and frontend prototypes. I also independently built and deployed ThePNAC.com from end-to-end.
+
+Later, at Morpheme Webnexus, I expanded my expertise in backend engineering, AWS, and DevOps. I worked on multiple major projects:
+
+PERK, where I built scalable serverless backends using AWS Lambda and TypeScript and tested them with JMeter.
+
+Nosotrus, where I set up CI/CD, integrated Codecov and Sentry, and supported development tasks.
+
+FamilyOne, where I optimized Lambda functions and wrote scalable YAML configurations for millions of users.
+
+Showtrail, where I developed a PDF editor for event maps and integrated Vectropia.
+I also trained OpenAI Intercom AI to create chatbot assistants for client applications.
+
+After proving myself, I was given full responsibility for an individual international client project — TorahAnytime (Israel). I handled ticket assignments, PR reviews, production deployments, and built multiple features like playlist editing, filters, and like functionality. Here, I grew my DevOps experience across Docker, Kubernetes, RabbitMQ, DigitalOcean, ClickHouse, and RethinkDB.
+
+Parallel to this, I independently built a logistics product called BikeShopShippers using Medusa.js, with full UPS integration for tracking, labeling, packaging, Stripe payments, Google APIs, and complete UI development.
+
+Currently, I’m working at Atia Healthcare as a Senior MERN Stack Developer, contributing to a large-scale CRM system used in the healthcare domain.
+
+Overall, I specialize in Node.js, Express, MongoDB, REST APIs, microservices, event-driven architecture, Docker, Kubernetes, AWS Lambda, and scalable backend systems. I’m passionate about clean architecture, maintainable code, and solving real business problems through efficient backend engineering.
+
+I’m now looking for a backend-focused role where I can build scalable systems, optimize performance, and continue growing as a Node.js and microservices engineer.
+
+
+--------------------------------------------------------
+
+“Hi, I’m Sandeep Lodhi. I’m a Senior MERN and Backend/Node.js Developer with strong experience in building scalable, high-performance applications, serverless systems, and cloud-based architectures. I have worked across multiple domains like logistics, healthcare, real estate, e-commerce, and edtech — for clients in Israel, the US, Spain, and Australia.
+
+I started my career at Shaligram Infotech, where I built a strong foundation in HTML, CSS, JavaScript, jQuery, Bootstrap, and SQL.
+After that, at MSAI Research, I worked as a MERN Stack Developer and built an entire Astrology platform from scratch, handling more than 70% R&D, defining complete tech stack, integrating Prokela APIs, and building real-time chat, audio, and video communication features. I also independently developed a full MERN product, ThePNAC, from backend to deployment.
+
+Then I joined Morpheme Webnexus, where my journey moved into cloud and DevOps.
+I built AWS Lambda serverless backends, worked with TypeScript, optimized microservices, set up CI/CD pipelines, integrated Codecov and Sentry, created a PDF editor using Vectropia, and even trained OpenAI Intercom AI for production chatbots.
+
+I also handled an individual international client project, TorahAnytime (Israel), where I was responsible for assigning tickets, reviewing and merging PRs, deploying to production, and developing major features. During this time, I strengthened my experience with Docker, Kubernetes, RabbitMQ, tRPC, DigitalOcean, ClickHouse, and RethinkDB.
+
+Parallelly, I built a logistics product, BikeShopShippers, from scratch using Medusa.js, integrating UPS for tracking and labels, Stripe payments, Google APIs, and a full custom UI.
+
+Currently, I’m working at Atia Healthcare as a Senior MERN/Backend Developer on a large-scale CRM system.
+
+Technically, my core expertise includes Node.js, Express, MongoDB, microservices architecture, Docker, Kubernetes, AWS Lambda, CI/CD, and high-performance backend engineering. I’m also confident with React, Redux Toolkit, and Tailwind when needed.
+
+I’m passionate about clean architecture, maintainable code, and solving real business problems with scalable backend solutions.
+I’m now looking for a backend-focused role where I can contribute to distributed systems, optimize performance, and grow further as a Node.js and microservices engineer.”
+
+
+
+
+
+-----------
+
+
+
+
+
+⭐ Final Interview-Ready Intro (Highly Professional + Covers Everything)
+
+“Hi, I’m Sandeep Lodhi, a Senior MERN and Backend/Node.js Developer with strong expertise in architecting scalable, high-performance applications and distributed systems. Over the past few years, I’ve worked across logistics, healthcare, real estate, e-commerce, astrology, and edtech — delivering end-to-end solutions for clients in Israel, the US, Spain, and Australia.
+
+My core strength lies in backend engineering. I specialize in Node.js, Express, MongoDB, RESTful APIs, microservices, Docker, Kubernetes, AWS Lambda, and event-driven systems using RabbitMQ. I also work confidently with CI/CD automation, monitoring tools, and production deployments. On the frontend, I’m comfortable with React, Redux Toolkit, and Tailwind whenever required.
+
+In my journey, I’ve had the opportunity to lead full-stack product development, design serverless architectures, optimize Lambda functions, integrate advanced third-party APIs, set up CI/CD pipelines, and manage international client projects independently.
+I have engineered platforms like an Astrology system built from scratch, a logistics solution with UPS and Stripe integration, a PDF editing tool using Vectropia, and I’ve even trained OpenAI Intercom assistants for intelligent customer support.
+
+Most recently, I’ve been working as a Senior Developer at Atia Healthcare, contributing to an enterprise-level CRM platform and improving backend performance, reliability, and scalability.
+
+I’m passionate about clean architecture, maintainable code, and solving complex engineering challenges. I’m now looking for a backend-focused role where I can contribute to distributed systems, build scalable solutions, and continue growing as a Node.js and microservices engineer.”

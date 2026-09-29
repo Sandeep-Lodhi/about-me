@@ -1,0 +1,27 @@
+Subject: Application for MERN Stack Developer Position – Sandeep Lodhi
+
+Email Body:
+
+Dear [Hiring Manager's Name],
+
+I hope this message finds you well.
+
+Please find attached my resume and cover letter for the MERN Stack Developer position at your esteemed organization. With over 2 years of relevant experience in full-stack development using the MERN stack (MongoDB, Express.js, React, and Node.js), I am confident in my ability to contribute effectively to your team.
+
+In my previous roles, I have developed scalable web applications, optimized backend logic, and built responsive user interfaces. I take pride in writing clean, efficient code and collaborating across teams to deliver impactful digital solutions.
+
+I have also attached a detailed cover letter outlining my qualifications and interest in this role. I would be grateful for the opportunity to further discuss how my background aligns with your needs.
+
+Attachments:
+
+Sandeep_Lodhi_Resume.pdf
+
+Sandeep_Lodhi_Cover_Letter.pdf
+
+Thank you for considering my application. I look forward to the possibility of speaking with you.
+
+Best regards,
+Sandeep Lodhi
+📧 officialsandeeplodhi@gmail.com
+📞 6266921342
+🌐 LinkedIn | GitHub

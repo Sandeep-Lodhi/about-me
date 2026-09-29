@@ -1,0 +1,36 @@
+i started my career as a software Developer in shaligram infotech pvt. ltd. 
+where i build my skills in HTML, CSS, JavaScript, Jquery, Bootstrap, MsSQL Server. 
+and  based on this tech stack i  worked on many tasks.
+
+after i join MSAI Rsearch Pvt.Ltd as a MERN stack developer  in This company i got apportunities to work on a Astrology project from scratch i did more than 70% RND of this project such as Define Tech stack of overall project like backend frontned database and third paty intigration like prokela api for kundli matching,kundli making, Horoscope, Child names etc and build chat, Audio, video services for communocation and meeting set. and build prototype of Backend , frontend. 
+
+then company provide a indivisual project ThePNAC.com  i build this project from scratch to end  overall backend frontend database full responsive and deployed on company local server through PM2 Ngnix and test . 
+
+and some times i contribute a US based project OD i helped in this project team/developers to validate services and gave permisions of access datas for visitors.
+
+after that i join Morpheme Webnexus Pvt. Ltd as a MERN Stack develper in this company a got apportunity to build my aws and Devops skills and cloud, 
+
+in start they gave me some task of PERK project  in this project i build my aws lambda function skills and Typescript skills and build scalable backend in serverless and test through JMeter. 
+ 
+then company gave me apportunity to contribute nosotrus project in this project i help to setup CI/CD and integrate Codecov and Sentry for testing. and worked on some  tickets. 
+
+then company give apportunity to work in familyOne project in this project first i integrate sentry and codecov and then  help optimize code of lambda function and write YAML files for scalling project to handle millions of users. 
+
+after company gave  me showtrail project to create a PDF Editor for aditing maps of events and integrate vectropia tool for this. 
+
+
+and then i train OpenAI intercom ai for creating chatbot assistant for familyone and showtrail application. 
+
+after that company give me apportunity to handle indivisual israile client of Torahanytime project  - 
+my role in this task  to assign tickets , review and Merged PRs, and deploy on production and build worked many task such as -  like button, playlist editable, legacy speakers, most views filteration
+in this project i build my devops skills - docker, kubernatics, rabbitMQ,tRPC,  DigitalOciean, ClickHouse, RithinkDB etc. 
+
+and then paralaly  i indivisual  worked on   Bikeshopshippers, this project  i build form scratch to end and build all servicess of it  this is a ligistic  project based in Medusa.js in this project i integrate UPS for tracking, laveling, packaging and deliver orders. stripe payment gateway  and google apis for address autofill and other all servicess and UI of this proejct. 
+
+
+after that started my jurney in atia helthcare in this company i worked as a senior MERN stack develper and worked in a CRM software.  
+
+
+
+---- new addon -
+in atiya health care i build apointment booking and apointment calling CRM UI and  build features of whatsapp api integration through Exotel api 

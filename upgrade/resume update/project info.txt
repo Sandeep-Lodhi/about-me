@@ -1,0 +1,49 @@
+my current company is morpheme webnexus pvt. ltd. - 
+
+where i work on in these project - 
+
+1)perk - 
+perk app work is like  a event management tool, in this platform company / Organizations list himself 
+acording to their sectors like technology , finance , food insdustries, medical , finance etc and fill our information. after they book any hall place for event and book envents and in events has lots of people 
+like sponsors , boots , stalls , exivitors , visitors ,speakers  etc comes.  creating and emplement  a pdf editor to edit maps of events such as building entry gate exitgate shops locations no. all routes etc. 
+
+
+2)nosotrus
+nosotrus is like a LMS platform this platform teach for spanish students , in this platforms admin registers state vise - all states schools and schools teachers , students register , students parents registers, and they provide all teaching materials like classes ebooks test gaems like - puzzels , quizes game etc.
+3)familyone- 
+family one work like he register family like - parents - their childs, future planning childs and relatives and familyone tyip with business owners and list and then familyone promote their business and provide discounts to registers families.
+
+4)smartbiz - 
+  smartbiz also similar like perk project but this is company build for personal product. 
+
+5) showtrail- 
+show trail and familyone are same client project show familyone manage all families and there relations conection to share discount coupons there relatives to get discount. 
+and show trail manage all listed coupons of business to promote them through this platforms. but both admin dashboard are same. 
+Torahanytime - Torahanytine is a isriel project where israel speakers register and they add lectures and classes and run donation campains promote there relision  torah is a holy book of them. 
+Bike shop shippers - Bike shop shippers is a shipping project this project manage shipment. shop owners list hemself in this project and if they want to ship their bikes cars in tones of waights  from their customer  show this platform first tiep with other shipping company and do a aggrement with them i will provide you the lots of tone shipment business so how much discount you provide. sow other shipment company provide heavy discount for heavy shipmets so business ownerss use this platorm to ship their tones of shipmets. 
+-----------------------------------
+in perk i created some apis in aws serverless like crud and pdf to image convertes . 
+
+2) in nosotrous i am emplemented CI/CD with bitbucket to sentry , codecov, jira , slack , vs code . 
+
+3) familyone doing the testing for checking aws serverless API  latency performance an written yaml files for better api performance and testig apis in Jmeters of all project. i am emplement intercom chat assistant and trains intercom workflows. 
+
+4) showtrail - i am emplement intercom chat assistant and trains intercom workflows.
+
+4) in spartbiz create apis and UI for dynamically forms acording to sector and organizaion wise to filling their company details such as finace secotor use finace form to fill conpany details and same other medical , toy , technology ssector. 
+
+
+5)torahanytime -  i am leading this project and work as a full stack and create manny featues in this project. 
+
+5) bikeshopshippers is a medusa.js based project , i am deploy this project and set workflows CI/CD , testing , monitoring progress and list and asigne task through github project. and lead this project. 
+
+
+hosted url of those are live - 
+https://nosotrosonline.com/
+https://family.one/
+https://showtrail.app/
+https://torahanytime.com/
+https://bssfront.hireacoder.in/us
+
+these are the  total info of these project these all project are based on MERN stack 
+

@@ -1,0 +1,72 @@
+Create a fully responsive, ATS-friendly resume in HTML and CSS inspired by the "Ivy League" resume template from Enhancv. Use clean, professional design principles with a left-column sidebar for skills and contact info, and a main section for profile summary, work experience, education, and achievements.
+
+The output should:
+
+Be easy to customize in raw HTML
+
+Have minimal but elegant CSS styling
+
+Use semantic HTML tags (<section>, <article>, etc.)
+
+Be printable (use @media print styles)
+
+Be easy for ATS to parse (avoid tables, text in images, etc.)
+
+Use this resume content:
+
+[PASTE YOUR FULL RESUME DATA HERE]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontend Development:
+HTML, CSS, JavaScript, TypeScript, React.js, Redux, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI, Ant Design
+
+Backend & API Development:
+Node.js, Express.js, Next.js, AWS Lambda, REST APIs, Swagger (OpenAPI), JSON, AJAX, ES6
+
+Databases:
+MongoDB, PostgreSQL, Firebase, AWS RDS, MS SQL Server, MySQL
+
+ORM & Data Mapping:
+Mongoose, Prisma, Sequelize
+
+DevOps & CI/CD:
+Git, GitHub, GitLab CI, Docker, GitHub Actions, Kubernetes, ESLint, Prettier
+
+Testing & Monitoring:
+Jest, Mocha, Chai, Sentry
+
+Project & Task Management:
+Jira, Trello, GitHub Projects
+
+Cloud & Deployment:
+AWS EC2, AWS S3, Vercel, Heroku, DigitalOcean, NGINX
+
+Developer Tools:
+VS Code, Postman, ChatGPT, Copilot
+
+Communication & Collaboration:
+Slack, Microsoft Teams, Zoom
+
+
+
+
+
+
+
+
+
+
+
+
+

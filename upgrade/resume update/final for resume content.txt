@@ -1,0 +1,168 @@
+SANDEEP LODHI
+
+ MERN Stack Developer
+
+ 916266921342   officialsandeeplodhi@gmail.com   https://github.com/Sandeep-Lodhi   https://www.linkedin.com/in/sandeep-lodhi-30293620b/   Delhi NCR
+
+ Summary
+ Full Stack Developer with over 2 year of experience in the MERN stack, specializing in building scalable server-side applications using 
+Node.js and optimizing MongoDB databases. Proficient in HTML/CSS, RESTful API development, and experienced in Git/GitHub, debugging, 
+and deployment.
+
+ Experience
+
+Morpheme Webnexus Pvt. Ltd                       Gaur City, Greater Noida
+ MERN Stack Developer                            11/2024 - Present
+ 
+ Company specializing in MERN stack development
+ Developed and deployed scalable MERN stack applications with dynamic role-based access
+ Integrated serverless architecture using AWS Lambda and modern CI/CD workflows
+ Collaborated with product and design teams to build performant frontends and APIs
+
+ AB MSAI RESEARCH LABS PRIVATE LIMITED            Pashchim Vihar, New Delhi
+ MERN Stack Developer                             03/2024  10/2024
+ Artificial Intelligence Solutions Provider
+ Developed a MERN-based website for Thepnac.com,mirroring the functionality of the Creote theme.
+ Implemented responsive design for OD project,enauring optimal user experience across all devices.
+
+
+ HOUSE OF VSB                                    Saket,New Delhi
+ MERN Stack Developer                            09/2023  02/2024
+ Exemplifying excellence in luxury craftsmanship and timeless sophistication.
+ Designed and developed a user panel with robust APIs for a project similar to astrotalk.com.
+ Managed and enhanced the Shopify store for skins.in.
+
+
+ Shaligram Infotech                              Ahamdabad,Gujrat
+ Software Developer                              02/2023  08/2023
+ Information Technology and Services
+ They designed and developed responsive web applications using MERN
+ Collaborated with the team to design and implement RESTful APIs using Node.js and Express.js
+ It is developed and maintains databases using MS SQL Server
+
+
+ Skills
+ Frontend Development
+ • Languages & Frameworks: HTML, CSS, JavaScript, TypeScript, PUG, SCSS, MJML
+ • Libraries & Tools: React.js, Redux, Redux Toolkit, GSAP, JQuery
+ • UI Frameworks: Tailwind CSS, Material UI, Bootstrap, Ant Design, CoreUI, Metronic, Bootstrap Templates, MaterialUI Templates
+
+ Backend & API Development
+ • Languages & Frameworks: Node.js, Express.js, Next.js, Medusa.js
+ • Routing & APIs: AWS Lambda, Swagger (OpenAPI), Redoc, TRPC
+ • Authentication & JSON Handling: JSON, AJAX, ES6
+
+ Databases
+ • SQL Databases: MS SQL Server, MySQL, PostgreSQL, SQLite3
+ • NoSQL Databases: MongoDB, Firebase, DynamoDB, Redis, RethinkDB, ClickHouse
+ • Cloud Databases: AWS RDS
+
+ ORM & Data Mapping
+ • Mongoose, Sequelize, Prisma, MikroORM
+
+ DevOps & CI/CD
+ • Git, GitHub, GitLab CI, Bitbucket
+ • GitHub Actions, Docker, Docker Compose, Kubernates, Kafka
+ • Pre-commit Hooks, ESLint, Prettier, Linter, Renovate, Dependabot
+
+ Testing & Monitoring
+ • Jest, Chai, Mocha, Codecov, Sentry
+ • JMeter for performance testing
+
+ Project & Task Management
+ • Trello, Jira, ClickUp, GitHub Projects
+
+ Cloud & Deployment
+ • Firebase, AWS S3, Cloudflare, DigitalOcean
+ • Deployment Platforms: Vercel, Heroku, Render, AWS EC2, NGINX, PM2
+
+ Communication & Collaboration
+ • Slack, Microsoft Teams, Skype, WhatsApp, Google Meet, Zoom
+
+ AI & Developer Tools
+ • ChatGPT, Copilot, Blackbox, DeepShek, Lovable, Bolt.new
+ • Editors: VS Code, Cursor, Windsurf, V0, Trae
+
+ Additional Tools & Integrations
+ • Intercom.ai (AI chat workflows)
+ • Google Workspace, Postman, Chromatic, Workflow Automation
+
+
+
+
+ Education
+
+ Technocrats Institute of Technology Bhopal MP
+ B.Tech(CSE) CGPA 8.7 10 08/2019  05/2023
+
+ Govt. Inter College Lalitpur Lalitpur UP
+ Senior Secondary Education CGPA 7.6 10 03/2018  03/2019
+
+ SDRS Inter College Lalitpur Lalitpur UP
+ Higher Secondary Education CGPA 7.6 10 05/2016  03/2017
+
+
+ Projects
+
+TorahAnytime
+ https://torahanytime.com/
+ Religious media and donations platform
+ Managed project workflow: assigned tickets, reviewed PRs, merged code, and deployed to production
+ Contributed as lead developer: resolved issues, guided team, and delivered new features
+
+
+ Nosotrus
+ https://develop.nosotrosonline.com/
+ LMS for Spanish education
+ Built interactive dashboards for admins, schools, teachers, parents, and students
+ Set up CI/CD with Bitbucket, integrated Sentry, Codecov, Jira, and Slack
+
+ FamilyOne
+ https://family.one/
+ Family discount and networking platform
+ Registered and linked families to business discount networks
+ Performed API load testing and implemented AI chat support with Intercom
+
+ ShowTrail
+ https://showtrail.app/
+ Coupon promotion platform
+ Extended FamilyOne platform for a coupon-sharing ecosystem
+ Built automated customer support using Intercom workflows
+
+
+ BikeShopShippers
+ https://bssfront.hireacoder.in/us
+ Logistics management platform
+ Built logistics dashboard for bulk shipping management
+ Set up CI/CD and GitHub boards for release tracking
+
+
+ Real Estate
+ real-estate-d1ad.onrender.com/
+ Developed platform using: Node.js , Express.js , MongoDB , Firebase , React.js , Redux , and RestApi.
+ Provides tools to keep track of the dynamic real estate market
+ Designed to support property owners in renting and selling
+ Aids buyers in finding and purchasing properties
+ Guides clients through the process of searching for listings
+
+
+ E-commerce Platform MERN Stack)
+ Designed and implemented a fully functional e-commerce website from scratch.
+ Integrated secure user authentication, real-time product updates, and payment processing.
+ Engaged in teamwork with developers, implementing Agile methodologies to ensure timely project delivery.
+
+
+Perk
+ Event management platform
+ Created a custom PDF editor for event layout mapping
+ Built serverless event registration and layout management system
+
+
+SmartBiz
+ Event management platform tailored to business onboarding
+ Developed sector-specific dynamic form system for onboarding businesses
+
+
+
+
+

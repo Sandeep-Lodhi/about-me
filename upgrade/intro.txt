@@ -1,0 +1,19 @@
+Thank you for giving me this wonderful opportunity to introduce myself.
+My name is Sandeep Lodhi. I'm 22 years old.
+I belong to a farmer's family from Ashok Nagar city in Madhya Pradesh.
+ I completed engineering in computer science from Technocrats Institute of
+Technology Bhopal.
+Where my aggregate is 8.5 CGPA I have done my schooling from Govt. Inter college
+Lalitpur Where I have secured 76% in 10th standard and 76% in 12th standard.
+I have invested this entire graduation journey in learning various programming skills.
+My technical skills include programming in HTML/CSS,JavaScript, node.js,react.js and
+express.js  databases mongoDB and MsSQL.
+I am also familiar with web development.
+I have done an internship at Shaligram Infotech Pvt Ltd as a software developer
+where designed and developed responsive web applications using MERN.
+Assisted in building restful APIs with Node JS and Express JS.
+Developed and maintained databases using MSSQL SERVER.
+And using MERN  I have developed project like Real estate application.
+And also developed another project E-commerce.
+
+That's all about me

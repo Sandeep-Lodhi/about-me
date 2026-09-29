@@ -1,0 +1,47 @@
+Skills
+Frontend Development
+Languages & Frameworks: HTML, CSS, JavaScript, TypeScript, PUG, SCSS, MJML
+Libraries & Tools: React.js, Redux, Redux Toolkit, GSAP, jQuery
+UI Frameworks: Tailwind CSS, Material UI, Bootstrap, Ant Design (ANTD), CoreUI, Metronic
+
+Backend & API Development
+Languages & Frameworks: Node.js, Express.js, Next.js, Medusa.js
+Routing & APIs: AWS Lambda, Swagger (OpenAPI), Redoc, TRPC
+Authentication & Data Handling: JSON, AJAX, ES6
+
+Databases
+SQL Databases: MS SQL Server, MySQL, PostgreSQL, SQLite3
+NoSQL Databases: MongoDB, Firebase, DynamoDB, Redis, RethinkDB, ClickHouse
+Cloud Databases: AWS RDS
+
+ORM & Data Mapping
+Mongoose, Sequelize, Prisma, MikroORM
+
+DevOps & CI/CD
+Git, GitHub, GitLab CI, Bitbucket
+GitHub Actions, Docker, Docker Compose, Kubernetes, Apache Kafka
+Pre-commit Hooks, ESLint, Prettier, Linter, Renovate, Dependabot
+
+Testing & Monitoring
+Jest, Chai, Mocha, Codecov, Sentry
+Apache JMeter (Performance & Load Testing)
+
+Cloud & Deployment
+AWS (EC2, S3, Lambda, RDS), Firebase, Cloudflare, DigitalOcean
+Deployment Platforms: Vercel, Heroku, Render, NGINX, PM2
+
+Project & Task Management
+JIRA, Trello, ClickUp, GitHub Projects
+
+Communication & Collaboration
+Slack, Microsoft Teams, Skype, WhatsApp, Google Meet, Zoom
+
+AI & Developer Tools
+ChatGPT, GitHub Copilot, Blackbox, DeepShek, Lovable, Bolt.new
+Intercom.ai (AI Chat Workflows), Google Workspace
+Editors: VS Code, Cursor, Windsurf, V0, Trae
+
+Additional Domains & Tools
+E-commerce Systems, LMS Platforms
+Apache Ant (Build Tool)
+Postman, Chromatic (UI Testing), Workflow Automation

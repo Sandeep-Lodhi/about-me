@@ -1,0 +1,90 @@
+Morpheme Webnexus Pvt. Ltd.                    Gaur City, Greater Noida
+MERN Stack Developer                       11/2024 – Present
+Full-service web and SaaS development company delivering scalable digital solutions across industries.
+
+
+
+
+
+Morpheme Webnexus Pvt. Ltd.                    Gaur City, Greater Noida
+MERN Stack Developer                       11/2024 – Present
+SaaS and custom web app development company serving diverse industries.
+
+
+
+
+
+
+
+### **Perk – Event Management Platform**
+
+**perk.morphemeapp.com** *(example URL placeholder if no live URL is available)*
+Built with: React.js, Node.js, Express.js, MongoDB, AWS Lambda, PDF Libraries
+
+* Developed CRUD-based serverless APIs and a **custom PDF editor** to map event layouts including stalls, booths, gates, and routes.
+* Supported multi-role users such as organizers, sponsors, exhibitors, and speakers.
+* Enabled organizations to register by sector and manage event bookings.
+
+---
+
+### **Nosotrus – LMS for Spanish Education**
+
+🌐 [nosotrosonline.com](https://nosotrosonline.com/)
+Built with: MERN Stack, Bitbucket CI/CD, Sentry, Codecov, Slack, Jira
+
+* Designed admin, school, teacher, parent, and student portals for interactive learning.
+* Integrated full CI/CD pipeline with automated error tracking and test coverage.
+* Provided features like eBooks, puzzles, quizzes, and learning games.
+
+---
+
+### **FamilyOne – Family Registration & Business Discount Network**
+
+🌐 [family.one](https://family.one/)
+Built with: React.js, Node.js, Express.js, MongoDB, AWS Lambda, Intercom, JMeter
+
+* Registered and connected family members to business partners offering exclusive discounts.
+* Conducted **API performance testing using JMeter** and optimized serverless endpoints using YAML.
+* Integrated **Intercom** chat assistant and trained workflows for automated user support.
+
+---
+
+### **ShowTrail – Coupon & Business Promotion Platform**
+
+🌐 [showtrail.app](https://showtrail.app/)
+Built with: MERN Stack, Intercom
+
+* Shared admin system with FamilyOne to manage coupon sharing among family networks.
+* Trained and deployed **Intercom AI support workflows** for user engagement.
+
+---
+
+### **SmartBiz – Sector-Based B2B Form Builder**
+
+**smartbiz.morphemeapp.com** *(example placeholder URL)*
+Built with: MERN Stack
+
+* Developed dynamic forms tailored to industry sectors like Finance, Medical, Technology, and Toys.
+* Enabled custom organization onboarding through sector-specific data input and validation.
+
+---
+
+### **TorahAnytime – Religious Content & Donation Platform**
+
+🌐 [torahanytime.com](https://torahanytime.com/)
+Built with: MERN Stack
+
+* **Led full-stack development** for speaker registration, lecture uploads, and donation campaigns.
+* Created multiple user modules and interactive content management tools.
+
+---
+
+### **BikeShopShippers – Vehicle Shipping Management**
+
+🌐 [bssfront.hireacoder.in/us](https://bssfront.hireacoder.in/us)
+Built with: Medusa.js, React, Node.js, GitHub Actions
+
+* Deployed a shipping coordination platform for heavy vehicle logistics.
+* Implemented CI/CD, set up **GitHub Project boards** for task tracking, and led feature releases.
+* Partnered with shipping companies to offer discounted bulk shipments for business users.
+
