@@ -1,0 +1,76 @@
+Real Estate Agents are professionals who help home buyers find and buy a new home or commercial space. 
+They help them buy and sell homes and guide clients through negotiation processes to get top dollar
+ for their property when selling.
+
+
+
+What is your goal as a real estate agent?
+Regardless of the method you implement, the goal is to schedule at least two listings per week. Building a 
+strong network is one of the proven ways that real estate agents can get more listings. Create a lasting relationship 
+with people in your industry, and don't forget your friends, family, and acquaintances.
+
+
+
+
+We are looking for a competent and experienced Real Estate Agent to join our team and increase sales. 
+
+Real Estate Agent duties and responsibilities
+Regularly track listings and stay up to date with the market
+Be familiar with the latest market trends
+Provide assistance and guide clients in their listings search 
+Make appointments and meet with clients to discuss their needs and wants
+Go to properties with clients
+Research client income and expenses to determine their buying power and capital
+Connect clients with other needed professionals who offer real estate related services (for example loan processors and home inspectors)
+Build and maintain relationships with all relevant stakeholders such as lawyers, banks, etc.
+Provide assistance and support clients in closing deals
+
+
+
+
+1.This helps home buyers find and buy a new home or commercial space. 
+2.This help them buy and sell homes and guide clients
+3.We can sedule listings and guide clients in their listings search
+4.·It’s a web application.
+.
+
+
+1.this helps those who rent or sell the property.
+2.1. This helps buyers find and buy a new home or commercial space. 
+3. We can schedule listings and guide clients in their listing search
+4.Regularly track listings and stay up to date with the market
+
+ Real estate app using MERN and Tailwind CSS -
+---
+It aids property owners in renting or selling.
+It helps buyers find and buy properties.
+We schedule and guide clients in their listing search.
+We track listings to stay updated with the market.
+
+
+It supports property owners in renting or selling and aids buyers in finding and purchasing properties.
+We guide clients in searching for listings and keep track of the market.
+
+
+This helps to post jobs and know about new jobs according to position 
+
+---This platform assists in posting job openings and staying informed about new job opportunities based on specific positions.
+
+
+Project-based on MERN Stack
+
+
+Hi
+This is Sandeep Lodhi
+ from Ashok Nagar district in Madhya Pradesh state.
+ My last qualification is B.Tech in (Computer Science Eng.) from Rajiv Gandhi Proudyogiki Vishwavidyalaya University Bhopal.
+I have good knowledge of HTML, CSS, Bootstrap, JavaScript and MS SQL Server.
+ And Basic Knowledge of Node, React,
+I have 6-month internship experience in Full Stack Web application.
+I also wish to develop a more rounded skill set and improve my job capability.
+
+Hi
+This is Sandeep Lodhi,
+I Am a MERN Stack Developer,
+Address - Ashok Nagar,MP,
+Degree - B.Tech in (Computer Science Eng.) from RGPV Bhopal,

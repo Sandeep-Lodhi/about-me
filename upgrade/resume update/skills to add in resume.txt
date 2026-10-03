@@ -1,0 +1,96 @@
+✅ 1. Technical Skills (Hard Skills)
+Frontend Development
+HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+Frameworks: React.js, Next.js, Vue.js
+
+UI Libraries: Tailwind CSS, Material UI, Bootstrap, ANTD
+
+Tools: Webpack, Babel, Vite
+
+Backend Development
+Node.js, Express.js, NestJS
+
+Languages: JavaScript, Go
+
+RESTful APIs, GraphQL, TRPC
+
+Authentication (JWT, OAuth)
+
+Databases
+SQL: MySQL, PostgreSQL, SQLite
+
+NoSQL: MongoDB, Firebase, Redis, DynamoDB
+
+ORM Tools: Prisma, Sequelize, Mongoose
+
+Cloud & DevOps
+AWS (S3, EC2, Lambda, RDS)
+
+Google Cloud, Azure, DigitalOcean
+
+Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD
+
+NGINX, PM2
+
+Testing
+Jest, Mocha, Chai, Cypress, Playwright
+
+JMeter (Load Testing)
+
+Code coverage: Istanbul, Codecov
+
+Version Control
+Git, GitHub, GitLab, Bitbucket
+
+✅ 2. Tools & Software
+Postman (API Testing)
+
+Swagger/OpenAPI (API Docs)
+
+VS Code, WebStorm, IntelliJ
+
+Figma, Adobe XD (Design to Code)
+
+Chrome DevTools, Lighthouse
+
+✅ 3. AI & Modern Tools
+ChatGPT / Copilot / Blackbox (AI Code Assistants)
+
+Workflow Automation: Zapier, Make (Integromat)
+
+Intercom (Customer Messaging)
+
+✅ 4. Project & Task Management
+JIRA, Trello, Asana, ClickUp, Notion
+
+✅ 5. Soft Skills (Highly Valued!)
+Problem-Solving
+
+Communication
+
+Team Collaboration
+
+Time Management
+
+Adaptability
+
+Critical Thinking
+
+✅ 6. Industry-Specific Domains (Bonus)
+E-commerce Platforms (Shopify, Medusa.js, etc.)
+
+LMS (Learning Management Systems)
+
+SaaS Applications
+
+Real-time Chat/Video (e.g., WebRTC, ZegoCloud)
+
+⭐ Tips for Adding Skills to Your Resume
+Focus on skills relevant to the job posting.
+
+Group them under clear sections: Frontend, Backend, DevOps, etc.
+
+Avoid listing outdated skills (like Flash, jQuery — unless asked).
+
+Match job descriptions by using similar keywords (great for ATS).

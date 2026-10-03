@@ -1,0 +1,44 @@
+
+---
+
+**Subject:** Application for MERN Stack Developer Role – Sandeep Lodhi
+
+**Email Body:**
+
+Dear Hiring Manager,
+
+I hope this message finds you well.
+
+I am writing to express my keen interest in the **MERN Stack Developer** position at your esteemed organization. With **2+ years of experience** in full-stack development, particularly in the **MERN stack**, I have built and maintained scalable, production-grade applications across diverse domains including e-commerce, education, logistics, and real estate.
+
+### Key Details:
+
+* **Relevant Experience:** 2+ Years
+* **Current Location:** Delhi NCR (Chhatarpur)
+* **Current CTC:** 3.6 LPA
+* **Expected CTC:** 10–12 LPA (Negotiable)
+* **Notice Period:** 2 Months (Negotiable)
+* **Core Skills:** JavaScript (ES6+), React.js, Redux Toolkit, Node.js, Express.js, MongoDB, RESTful APIs, AWS, Firebase, CI/CD
+
+I’ve contributed to multiple real-time, role-based platforms using modern frontend and backend technologies, and I actively engage in Agile workflows, DevOps practices, and performance optimization.
+
+### Reason for Job Change:
+
+I am currently seeking a more **professional and growth-oriented environment**. My recent experiences involved unstructured workflows, excessive overtime with minimal work-life balance, and a lack of healthy communication within the team. I am now looking for a collaborative culture where quality engineering, innovation, and developer well-being are prioritized.
+
+### Online Profiles:
+
+* **LinkedIn:** [https://www.linkedin.com/in/sandeep-lodhi-30293620b](https://www.linkedin.com/in/sandeep-lodhi-30293620b)
+* **GitHub:** [https://github.com/Sandeep-Lodhi](https://github.com/Sandeep-Lodhi)
+
+I would love the opportunity to contribute my skills to your team and further grow as a developer in a dynamic and supportive environment. Please let me know if you need any further information or if I can assist in the next steps of the recruitment process.
+
+Thank you for considering my application.
+
+Warm regards,
+**Sandeep Lodhi**
+📧 [officialsandeeplodhi@gmail.com](mailto:officialsandeeplodhi@gmail.com)
+📞 +91 6266921342
+
+---
+

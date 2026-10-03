@@ -1,0 +1,181 @@
+SANDEEP LODHI
+MERN Stack Developer
++916266921342
+officialsandeeplodhi@gmail.com
+https://github.com/Sandeep-Lodhi
+Delhi NCR
+Summary
+I am a Full Stack Developer with over 2 year of experience in the MERN stack, specializing in building scalable server-side applications using Node.js and optimizing MongoDB databases. Proficient in HTML/CSS, RESTful API development, and experienced in Git/GitHub, debugging, and deployment. My passion lies in crafting efficient and innovative solutions to complex problems
+Experience
+Morpheme Webnexus Pvt. Ltd
+Gaur City, Greater Noida
+MERN Stack Developer
+11/2024 - Present
+Company specializing in MERN stack development
+•
+Developed and deployed scalable MERN stack applications with dynamic role-based access
+•
+Integrated serverless architecture using AWS Lambda and modern CI/CD workflows
+•
+Collaborated with product and design teams to build performant frontends and APIs
+AB MSAI RESEARCH LABS PRIVATE LIMITED
+Pashchim Vihar, New Delhi
+MERN Stack Developer
+03/2024 - 10/2024
+Artificial Intelligence Solutions Provider
+•
+Developed a MERN-based website for Thepnac.com, mirroring the functionality of the Creote theme
+•
+Implemented responsive design for OD project, ensuring optimal user experience across all devices
+HOUSE OF VSB
+Saket, New Delhi
+MERN Stack Developer
+09/2023 - 02/2024
+Exemplifying excellence in luxury craftsmanship and timeless sophistication
+•
+Designed and developed a user panel with robust APIs for a project similar to astrotalk.com
+•
+Managed and enhanced the Shopify store for skins.in
+Shaligram Infotech
+Ahamdabad, Gujrat
+Software Developer
+02/2023 - 08/2023
+Information Technology and Services
+•
+Designed and developed responsive web applications using MERN
+•
+Collaborated with the team to design and implement RESTful APIs using Node.js and Express.js
+•
+Developed and maintained databases using MS SQL Server
+Skills
+Frontend
+:
+HTML5, CSS3, JavaScript (ES6), TypeScript, PUG, SCSS, MJML, React.js, Redux Toolkit, GSAP, JQuery, 
+UI Frameworks
+:
+Tailwind CSS, Material UI, Bootstrap, Ant Design, CoreUI, Metronic
+Backend
+:
+Node.js, Express.js, Next.js, Medusa.js, TRPC, Swagger (OpenAPI), AWS Lambda
+Databases
+:
+MySQL, PostgreSQL, SQLite, MongoDB, Firebase, DynamoDB, Redis, AWS RDS
+ORM & Data Mapping
+:
+Mongoose, Sequelize, Prisma, MikroORM
+DevOps & Cloud
+:
+Docker, Docker Compose, Kubernetes, GitHub Actions, AWS (EC2, S3, Lambda, RDS), DigitalOcean, Cloudflare, Heroku, Vercel
+Version Control & CI/CD
+:
+Git, GitHub, GitLab CI, Bitbucket
+Testing & Monitoring
+:
+Jest, Mocha, Chai, JMeter, Codecov, Sentry
+Project Management
+:
+Jira, Trello, ClickUp, GitHub Projects
+Communication & Collaboration
+:
+Google Meet, Zoom, Microsoft Teams, Slack, Skype
+Tools & Automation
+:
+Postman, Intercom.ai, Google Workspace, ESLint, Prettier, Renovate, Dependabot
+AI & Dev Tools
+:
+ChatGPT, Copilot, Blackbox, DeepShek, Lovable, Bolt.new
+Deployment
+:
+NGINX, PM2, Render
+Education
+Technocrats Institute of Technology
+Bhopal MP
+B.Tech(CSE)
+|
+CGPA
+:
+8.7
+ / 
+10
+08/2019 - 05/2023
+Govt. Inter College Lalitpur
+Lalitpur UP
+Senior Secondary Education
+|
+CGPA
+:
+7.6
+ / 
+10
+03/2018 - 03/2019
+SDRS Inter College Lalitpur
+Lalitpur UP
+Higher Secondary Education
+|
+CGPA
+:
+7.6
+ / 
+10
+05/2016 - 03/2017
+Projects
+TorahAnytime
+https://torahanytime.com/
+Religious media and donations platform
+•
+Managed project workflow: assigned tickets, reviewed PRs, merged code, and deployed to production
+•
+Contributed as lead developer: resolved issues, guided team, and delivered new features
+Nosotrus
+https://develop.nosotrosonline.com/
+LMS for Spanish education
+•
+Built interactive dashboards for admins, schools, teachers, parents, and students
+•
+Set up CI/CD with Bitbucket, integrated Sentry, Codecov, Jira, and Slack
+FamilyOne
+https://family.one/
+Family discount and networking platform
+•
+Registered and linked families to business discount networks
+•
+Performed API load testing and implemented AI chat support with Intercom
+ShowTrail
+https://showtrail.app/
+Coupon promotion platform
+•
+Extended FamilyOne platform for a coupon-sharing ecosystem
+•
+Built automated customer support using Intercom workflows
+BikeShopShippers
+https://bssfront.hireacoder.in/us
+Logistics management platform
+•
+Built logistics dashboard for bulk shipping management
+•
+Set up CI/CD and GitHub boards for release tracking
+Real Estate
+https://real-estate-d1ad.onrender.com/
+Real Estate project providing market tracking and management tools
+•
+Provides tools to track the dynamic real estate market and support property owners in renting or selling
+•
+Assists buyers in searching, finding, and purchasing properties with guided listing exploration
+E-commerce Platform (MERN Stack)
+E-commerce platform built from the ground up
+•
+Designed and implemented a fully functional e-commerce website from scratch
+•
+Integrated secure user authentication, real-time product updates, and payment processing
+•
+Engaged in teamwork with developers, implementing Agile methodologies to ensure timely project delivery
+Perk
+Event management platform
+•
+Created a custom PDF editor for event layout mapping
+•
+Built serverless event registration and layout management system
+SmartBiz
+Event management platform tailored to business onboarding
+•
+Developed sector-specific dynamic form system for onboarding businesses
