@@ -1,0 +1,210 @@
+FRONTENT 
+
+HTML5
+CSS3
+JavaScript
+Jquery
+Bootstrap
+React
+Vite
+vue
+Next.js
+Tailwind css
+Material UI 
+Swaper.js
+owl.js
+Sadcn UI
+GSAP
+Anime.js
+Tree.js
+metronix
+SCSS
+PUG 
+Core UI Template 
+Ant Desing
+
+
+BACKEND
+
+Typescript
+Node.js
+Redux Tookit
+mjml
+go
+Python
+java
+GRPC
+TRPC
+JSON
+AJAX
+ES6
+Express.js
+Next.js
+Medusa.js
+Nest.js
+GraphQL
+
+DSA
+
+DATABASE
+
+MS SQL SERVER
+MySQL
+PostgreSQL
+MongoDB
+SQLite
+RethinkDB
+Redis
+ClickHouse
+MailiSearch
+MariaDB
+neonDB
+Firebase
+DynamoDB
+AWS RDS 
+Elastic Search
+Ingres-NGNIX
+
+
+ORM
+
+Mongoose
+Sequlize
+Postgres
+Prizma
+micro-orm
+aws
+Sqlite3
+
+
+
+CI/CD
+
+RabbitMQ
+Kafka
+Nats
+GitHub Actions
+Docker
+Kubernetes
+Minicube
+Skaffold
+pre-commit
+Swagger/redoc
+ERLang
+GCloud
+BitBucket
+Terraform 
+Grafana
+Prometheus
+ElK/EFK
+Jaeger OR Zipkin
+Open Telimatry
+Object Store
+kernel 
+CUDA
+Keda 
+
+OS 
+
+Windows 
+Linux
+MacOS
+Ubuntu 
+
+TESTING
+
+Jest
+Chai
+Mocha
+Code Cov
+Sentry
+
+Communication 
+
+Slack
+Teams
+Skype
+WhatsApp
+Meet
+Zoom 
+Postman
+UltraViewer
+AnyDesk
+
+
+CLOUD STORAGE
+
+Firebase
+AWS S3
+Cloudflare
+Derive
+Cloudinary
+
+
+DEPLOYMENT
+
+Render
+Vercel
+Heroku
+AWS
+Ngnix
+IIS
+NgRock
+CloudWays
+Digital Ocean
+Hostinger
+
+EDITOR 
+
+VS CODE
+Cursor
+Windsurf
+V0
+Trae
+Antigravity IDE
+
+AI
+ChatGPT
+Bolt.new
+Lovable
+BlackBox
+DeepShek
+Copilot
+Claude
+Polymet
+
+
+TOOLS
+
+
+Google Suit
+JMeter
+Workflow
+Cromatic
+Postman 
+
+Payment Gateway
+Currier Companies 
+Google Map API 
+
+
+
+
+Goog Developers || Important Things :-
+
+AsyncHandler 
+ErrorHandler
+Returntype function 
+Status codes 
+ES6
+Rate Limit 
+ORM 
+log Genrate
+.env setup properly
+Global Error Middleware 
+HealthAPI 
+ESLint 
+Prettier 
+validation - joi
+Helmet, Cors, bcrypt 
+Authentication and role based routing 

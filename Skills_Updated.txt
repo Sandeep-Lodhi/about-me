@@ -1,0 +1,129 @@
+TECHNICAL SKILLS
+================
+
+LANGUAGES
+JavaScript (ES6+), TypeScript, Python, SQL
+Familiar with: Go, Java
+
+FRONTEND
+React, Next.js, Vue.js, Vite
+Redux Toolkit, TanStack Query, Zustand
+React Hook Form, Zod
+Tailwind CSS, SCSS, Bootstrap, shadcn/ui, Material UI (MUI), Ant Design, CoreUI, Metronic
+GSAP, Anime.js, Three.js, Swiper.js, Owl Carousel
+HTML5, CSS3, jQuery, Pug
+
+BACKEND
+Node.js, Express.js, NestJS, Medusa.js
+REST APIs, GraphQL, tRPC, gRPC, WebSockets (Socket.io)
+MJML (email templates)
+
+AI ENGINEERING
+OpenAI API, Claude API, Vercel AI SDK
+RAG (Retrieval-Augmented Generation), Prompt Engineering
+LangChain / LangGraph, AI Agents, MCP (Model Context Protocol)
+Vector Databases: pgvector, Pinecone, Qdrant
+AI-assisted development: Cursor, GitHub Copilot, Claude Code, v0
+
+DATABASES
+SQL: PostgreSQL, MySQL, MariaDB, MS SQL Server, SQLite
+NoSQL: MongoDB, DynamoDB, Firebase Firestore, RethinkDB
+Serverless / Managed: Neon, Supabase, AWS RDS
+Caching: Redis
+Search & Analytics: Elasticsearch, Meilisearch, ClickHouse
+
+ORM / ODM
+Prisma, Drizzle, TypeORM, Sequelize, MikroORM, Mongoose
+
+AUTHENTICATION & SECURITY
+JWT, OAuth2, Auth.js (NextAuth), Clerk, Better Auth
+Role-Based Access Control (RBAC)
+Helmet, CORS, bcrypt, Rate Limiting, OWASP Top 10
+
+MESSAGING & BACKGROUND JOBS
+Kafka, RabbitMQ, NATS, BullMQ
+
+DEVOPS & CI/CD
+Git, GitHub, Bitbucket
+GitHub Actions, pre-commit hooks
+Docker, Kubernetes, Minikube, Skaffold, KEDA, Ingress-NGINX
+Terraform (Infrastructure as Code)
+
+CLOUD & DEPLOYMENT
+AWS: EC2, S3, Lambda, RDS, CloudFront, SQS, ECS
+Google Cloud (GCP), DigitalOcean, Cloudflare (R2, CDN)
+Vercel, Render, Heroku, Cloudways, Hostinger
+Nginx, IIS, ngrok
+Media storage: Cloudinary, AWS S3, Firebase Storage
+
+OBSERVABILITY & MONITORING
+Prometheus, Grafana, OpenTelemetry, Jaeger / Zipkin
+ELK / EFK Stack, Sentry
+
+TESTING
+Jest, Vitest, Mocha, Chai
+React Testing Library, Supertest
+Playwright, Cypress
+Codecov, JMeter (load testing), Chromatic (visual testing)
+
+API DOCS & TOOLS
+Postman, Swagger / Redoc
+ESLint, Prettier
+VS Code, Cursor, Windsurf
+Google Workspace
+
+INTEGRATIONS
+Payment Gateways: Stripe, PayPal
+Courier / Shipping APIs
+Google Maps API
+
+CORE CONCEPTS
+Data Structures & Algorithms (DSA)
+System Design, Microservices, Caching Strategies
+Operating Systems: Linux (Ubuntu), Windows, macOS
+
+BACKEND BEST PRACTICES
+Async handler & global error middleware, centralized error handling
+Proper HTTP status codes & typed return values
+Request validation (Joi / Zod)
+Structured logging, health-check APIs
+Environment config (.env) management
+Rate limiting, Helmet, CORS, bcrypt, RBAC
+ESLint + Prettier code quality
+
+
+
+--------------------------------------------------------------
+NOTE (delete this section before using in your CV):
+Items below were NEWLY ADDED as market-recommended skills.
+Keep them only once you have practiced / built something with them:
+
+Git, TanStack Query, Zustand, React Hook Form, Zod, WebSockets (Socket.io),
+OpenAI API, Claude API, Vercel AI SDK, RAG, LangChain/LangGraph, AI Agents, MCP,
+pgvector, Pinecone, Qdrant, Supabase, Drizzle, TypeORM,
+JWT, OAuth2, Auth.js, Clerk, Better Auth, OWASP Top 10, BullMQ,
+AWS services (EC2, Lambda, CloudFront, SQS, ECS), Vitest,
+React Testing Library, Supertest, Playwright, Cypress, Stripe, PayPal,
+System Design, Microservices
+
+REMOVED (not resume skills or hard to defend in interviews):
+Communication apps (Slack, Teams, Skype, WhatsApp, Meet, Zoom, AnyDesk, UltraViewer),
+AI chatbot list (ChatGPT, Bolt, Lovable, BlackBox, DeepSeek, Polymet),
+Kernel, CUDA, Erlang, "Object Store", "Derive", "Workflow",
+Trae, Antigravity IDE (use a single AI-assisted development line instead),
+JSON / AJAX / ES6 as separate items (covered by JavaScript ES6+)
+--------------------------------------------------------------
+
+
+Languages:       JavaScript (ES6+), TypeScript, Python, SQL
+Frontend:        React, Next.js, Vue, Redux Toolkit, TanStack Query, Zustand,
+                 Tailwind CSS, shadcn/ui, MUI, Ant Design, GSAP, Three.js
+Backend:         Node.js, Express, NestJS, GraphQL, tRPC, gRPC, REST, WebSockets
+AI:              OpenAI/Claude APIs, Vercel AI SDK, RAG, pgvector, LangChain, MCP
+Databases:       PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Meilisearch
+ORM:             Prisma, Drizzle, Sequelize, Mongoose
+DevOps/Cloud:    Docker, Kubernetes, GitHub Actions, Terraform, AWS (EC2, S3, Lambda), Nginx
+Messaging:       Kafka, RabbitMQ, BullMQ
+Observability:   Prometheus, Grafana, OpenTelemetry, Sentry
+Testing:         Jest, Vitest, Playwright, Supertest
+Tools:           Git, Postman, Swagger, Cursor, VS Code
